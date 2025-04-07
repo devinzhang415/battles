@@ -1,4 +1,4 @@
-# Battles
+# Reverse Dungeon
 
 2D clicker inspired by Right Click to Necromance
 
